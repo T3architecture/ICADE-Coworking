@@ -1,0 +1,26 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = ICADE Coworking
+
+## Skin
+
+### Label
+label4056.text = Maison à Briançon
+
+## Media
+
+### Title
+panorama_E0DF1C8B_E93F_D404_41D6_E6CE1A58D64A.label = Bar
+panorama_E0E0B9FB_E93F_FC05_41E8_B9E8F712C8E6.label = Salon 2
+panorama_E3A3F9F0_E93F_BC04_41E6_09FD75BF16F4.label = Salon 1
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://linktr.ee/t3_architecture
+LinkBehaviour_A99CB470_BF24_034B_41D8_32775ADC450A.source = https://linktr.ee/t3_architecture
